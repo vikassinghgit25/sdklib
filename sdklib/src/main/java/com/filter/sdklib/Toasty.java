@@ -1,3 +1,5 @@
+package com.filter.sdklib;
+
 import android.content.Context;
 import android.widget.Toast;
 
